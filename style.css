@@ -57,7 +57,7 @@ table {
    
 }
 
-.header_line{
+.header__line{
    padding-top: 28px;
    display: flex;
    align-items: center;
@@ -71,14 +71,14 @@ table {
    align-items: center;
 }
 
-.nav_item{
+.nav__item{
    color: white;
    text-decoration: none;
    margin-right: 35px;
    
 }
 
-.nav_item:hover{
+.nav__item:hover{
    color: #5FAEC4;
 }
 
@@ -187,10 +187,4 @@ table {
 .button__main-play:hover{
   color:#B1B1B1;
   transition: all .2s;
-}
-
-.vasyaprivet{
-   color: #ff1500;
-   align-items: asdas;
-   text-size-adjust: ;
 }
