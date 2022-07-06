@@ -1,1 +1,1 @@
-# k-learning-adaptive-landing
+# k-learning-not-adaptive-landing
